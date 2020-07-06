@@ -7,6 +7,7 @@ public class A266 {
         Scanner scanner = new Scanner(System.in);
         int num = Integer.parseInt(scanner.nextLine());
         String input = scanner.nextLine();
+
         int sum = 1;
 
         for (int i = 0; i <num-1 ; i++) {
