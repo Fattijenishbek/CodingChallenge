@@ -1,3 +1,4 @@
+package competitive;
 
 import java.util.Scanner;
 
